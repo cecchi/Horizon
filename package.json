@@ -1,0 +1,13 @@
+{
+  "name": "Horizon",
+  "description": "Account management made easy.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.0.0rc2",
+    "mongoose": "2.7.1",
+    "lazy": "1.0.8",
+    "underscore": "1.4.2",
+    "cron": "0.3.3"
+  }
+}
